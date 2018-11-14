@@ -1,0 +1,764 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.anemiaperupucpupch.com" resolutions="1x" timestamp="1542211100701">
+  <folder name="css">
+    <file name="site_global.css" crc="4188019920"/>
+    <file name="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagn_stico-de-la-deficiencia-de-hierro-y-la.css" crc="494439799" ref="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la"/>
+    <file name="nomq_uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagn_stico-de-la-deficiencia-de-hierro-y-la.css" crc="4200400838" ref="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la"/>
+    <file name="definicion-entradas-y-salidas.css" crc="3940588178" ref="definicion-entradas-y-salidas"/>
+    <file name="nomq_definicion-entradas-y-salidas.css" crc="505939325" ref="definicion-entradas-y-salidas"/>
+    <file name="anemia-por-deficiencia-de-hierro.css" crc="4153669465" ref="anemia-por-deficiencia-de-hierro"/>
+    <file name="nomq_anemia-por-deficiencia-de-hierro.css" crc="4272113383" ref="anemia-por-deficiencia-de-hierro"/>
+    <file name="la-anemia-en-el-per_-problema-de-salud-p_blica.css" crc="223777246" ref="la-anemia-en-el-perú-problema-de-salud-pública"/>
+    <file name="nomq_la-anemia-en-el-per_-problema-de-salud-p_blica.css" crc="497536589" ref="la-anemia-en-el-perú-problema-de-salud-pública"/>
+    <file name="tabla-de-requerimientos.css" crc="4746272" ref="tabla-de-requerimientos"/>
+    <file name="nomq_tabla-de-requerimientos.css" crc="4123187979" ref="tabla-de-requerimientos"/>
+    <file name="grupos-m_s-vulnerables_-prevalencia-a-nivel-mundial.css" crc="3951234789" ref="grupos-más-vulnerables,-prevalencia-a-nivel-mundial"/>
+    <file name="nomq_grupos-m_s-vulnerables_-prevalencia-a-nivel-mundial.css" crc="199447263" ref="grupos-más-vulnerables,-prevalencia-a-nivel-mundial"/>
+    <file name="definici_n-y-medici_n-de-efectos-ni_os.css" crc="3901075449" ref="definición-y-medición-de-efectos-niños"/>
+    <file name="nomq_definici_n-y-medici_n-de-efectos-ni_os.css" crc="339459577" ref="definición-y-medición-de-efectos-niños"/>
+    <file name="metodolod_a-del-dise_o.css" crc="394079810" ref="metodolodía-del-diseño"/>
+    <file name="nomq_metodolod_a-del-dise_o.css" crc="212564383" ref="metodolodía-del-diseño"/>
+    <file name="analisis-de-grupos-vulnerables-en-el-per_-ni_os-menores-de-5-a_os.css" crc="3866277935" ref="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años"/>
+    <file name="nomq_analisis-de-grupos-vulnerables-en-el-per_-ni_os-menores-de-5-a_os.css" crc="4287190627" ref="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años"/>
+    <file name="definici_n-y-medici_n-de-efectos-madres-gestantes.css" crc="3864751359" ref="definición-y-medición-de-efectos-madres-gestantes"/>
+    <file name="nomq_definici_n-y-medici_n-de-efectos-madres-gestantes.css" crc="4109665004" ref="definición-y-medición-de-efectos-madres-gestantes"/>
+    <file name="proyectos-preliminares.css" crc="4165090254" ref="proyectos-preliminares"/>
+    <file name="nomq_proyectos-preliminares.css" crc="4083876140" ref="proyectos-preliminares"/>
+    <file name="analisis-de-grupos-vulnerables-en-el-per_--madres-gestantes.css" crc="4017165040" ref="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes"/>
+    <file name="nomq_analisis-de-grupos-vulnerables-en-el-per_--madres-gestantes.css" crc="131562876" ref="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes"/>
+    <file name="comparaci_n-de-los-efectos-con-est_ndares-internacionales.css" crc="3806267002" ref="comparación-de-los-efectos-con-estándares-internacionales"/>
+    <file name="nomq_comparaci_n-de-los-efectos-con-est_ndares-internacionales.css" crc="101164178" ref="comparación-de-los-efectos-con-estándares-internacionales"/>
+    <file name="proyecto-optimo.css" crc="471334620" ref="proyecto-optimo"/>
+    <file name="nomq_proyecto-optimo.css" crc="195356584" ref="proyecto-optimo"/>
+    <file name="estad_stica-epidemiol_gica-en-el-per_.css" crc="3849201820" ref="estadística-epidemiológica-en-el-perú"/>
+    <file name="nomq_estad_stica-epidemiol_gica-en-el-per_.css" crc="3992512068" ref="estadística-epidemiológica-en-el-perú"/>
+    <file name="medici_n-del-impacto-econ_mico-de-la-problem_tica-de-la-anemia-en-nuestro-pa_s.css" crc="4104293444" ref="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país"/>
+    <file name="nomq_medici_n-del-impacto-econ_mico-de-la-problem_tica-de-la-anemia-en-nuestro-pa_s.css" crc="4271273206" ref="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país"/>
+    <file name="matrices-de-evaluacion.css" crc="138918375" ref="matrices-de-evaluacion"/>
+    <file name="nomq_matrices-de-evaluacion.css" crc="353994874" ref="matrices-de-evaluacion"/>
+    <file name="medici_n-del-impacto-social-de-la-problem_tica-de-la-anemia-en-nuestro-pa_s.css" crc="3945667596" ref="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país"/>
+    <file name="nomq_medici_n-del-impacto-social-de-la-problem_tica-de-la-anemia-en-nuestro-pa_s.css" crc="3832248924" ref="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país"/>
+    <file name="an_lisis-etiol_gico-de-la-problem_tica-de-la-anemia-educaci_n_-cultura-y-creencias.css" crc="4148123604" ref="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias"/>
+    <file name="nomq_an_lisis-etiol_gico-de-la-problem_tica-de-la-anemia-educaci_n_-cultura-y-creencias.css" crc="4191088658" ref="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias"/>
+    <file name="medici_n-del-impacto-pol_tico-de-la-problem_tica-de-la-anemia-en-nuestro-pa_s.css" crc="3955685744" ref="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país"/>
+    <file name="nomq_medici_n-del-impacto-pol_tico-de-la-problem_tica-de-la-anemia-en-nuestro-pa_s.css" crc="195711091" ref="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país"/>
+    <file name="an_lisis-etiol_gico-de-la-problem_tica-de-la-anemia-diagn_stico.css" crc="3868197153" ref="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico"/>
+    <file name="nomq_an_lisis-etiol_gico-de-la-problem_tica-de-la-anemia-diagn_stico.css" crc="387760208" ref="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico"/>
+    <file name="entregable-2.css" crc="182040551" ref="entregable-2"/>
+    <file name="nomq_entregable-2.css" crc="135642359" ref="entregable-2"/>
+    <file name="expo-h3.css" crc="3855721796" ref="expo-h3"/>
+    <file name="nomq_expo-h3.css" crc="4223947446" ref="expo-h3"/>
+    <file name="proceso-de-diagn_stico-de-la-anemia-en-el-per_-_descrito-por-gu_as-de-pr_ctica-cl_nica-o-especialist.css" crc="389607598" ref="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist"/>
+    <file name="nomq_proceso-de-diagn_stico-de-la-anemia-en-el-per_-_descrito-por-gu_as-de-pr_ctica-cl_nica-o-especialist.css" crc="38253083" ref="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist"/>
+    <file name="pasos-a-seguir.css" crc="242285139" ref="pasos-a-seguir"/>
+    <file name="nomq_pasos-a-seguir.css" crc="4056227493" ref="pasos-a-seguir"/>
+    <file name="entregable-3.css" crc="250753109" ref="entregable-3"/>
+    <file name="nomq_entregable-3.css" crc="500010716" ref="entregable-3"/>
+    <file name="problema-generalizaci_n-del-diagn_stico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro.css" crc="3877104621" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro"/>
+    <file name="nomq_problema-generalizaci_n-del-diagn_stico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro.css" crc="353893838" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro"/>
+    <file name="evaluacion-de-conceptos-de-solucion.css" crc="4167680944" ref="evaluacion-de-conceptos-de-solucion"/>
+    <file name="nomq_evaluacion-de-conceptos-de-solucion.css" crc="182167390" ref="evaluacion-de-conceptos-de-solucion"/>
+    <file name="an_lisis-etiol_gico-de-la-problem_tica-de-la-anemia.css" crc="313582087" ref="análisis-etiológico-de-la-problemática-de-la-anemia"/>
+    <file name="nomq_an_lisis-etiol_gico-de-la-problem_tica-de-la-anemia.css" crc="54032337" ref="análisis-etiológico-de-la-problemática-de-la-anemia"/>
+    <file name="index.css" crc="4035036195" ref="index"/>
+    <file name="nomq_index.css" crc="4039398887" ref="index"/>
+    <file name="indicador-utilizado-con-mayor-frecuencia-en-el-per_-para-el-tamizaje-y-diagn_stico-de-la-anemia-ferr.css" crc="4255011642" ref="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr"/>
+    <file name="nomq_indicador-utilizado-con-mayor-frecuencia-en-el-per_-para-el-tamizaje-y-diagn_stico-de-la-anemia-ferr.css" crc="4164761800" ref="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr"/>
+    <file name="matriz-morfologica.css" crc="4015124873" ref="matriz-morfologica"/>
+    <file name="nomq_matriz-morfologica.css" crc="4215678159" ref="matriz-morfologica"/>
+    <file name="definicion-de-anemia.css" crc="4244520432" ref="definicion-de-anemia"/>
+    <file name="nomq_definicion-de-anemia.css" crc="4196403923" ref="definicion-de-anemia"/>
+    <file name="proceso-a-seguir-para-el-diagn_stico-de-la-anemia-en-otros-pa_ses.css" crc="126303673" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países"/>
+    <file name="nomq_proceso-a-seguir-para-el-diagn_stico-de-la-anemia-en-otros-pa_ses.css" crc="179252271" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países"/>
+    <file name="esquema-de-funciones.css" crc="394264197" ref="esquema-de-funciones"/>
+    <file name="nomq_esquema-de-funciones.css" crc="4153314803" ref="esquema-de-funciones"/>
+    <file name="anemia-por-deficiencia-de-hierro-copy.css" crc="396960312" ref="anemia-por-deficiencia-de-hierro-copy"/>
+    <file name="nomq_anemia-por-deficiencia-de-hierro-copy.css" crc="3932972844" ref="anemia-por-deficiencia-de-hierro-copy"/>
+    <file name="tipos-de-anemia.css" crc="463687813" ref="tipos-de-anemia"/>
+    <file name="nomq_tipos-de-anemia.css" crc="3760145248" ref="tipos-de-anemia"/>
+  </folder>
+  <folder name="assets">
+    <file name="mapa-h2.pdf" crc="523063496" seo="true" mt="1540611905000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="museutils.js" crc="4216313831" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:definicion-de-anemia:tipos-de-anemia:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:definición-y-medición-de-efectos-niños:comparación-de-los-efectos-con-estándares-internacionales"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u9772.php" crc="3593448" ref="index"/>
+    <file name="form-u10120.php" crc="3802939558" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="require.js" crc="3951022091" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="328987819" ref="index"/>
+    <file name="cabecera-01.jpg" crc="492754019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:anemia-por-deficiencia-de-hierro-copy:expo-h3"/>
+    <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-03.jpg" crc="4287590828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="screen shot 2018-10-26 at 81015 pm.jpg" crc="42518666" seo="true" ref="index:definicion-de-anemia:tipos-de-anemia:anemia-por-deficiencia-de-hierro:grupos-más-vulnerables,-prevalencia-a-nivel-mundial:analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años:analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes:estadística-epidemiológica-en-el-perú:análisis-etiológico-de-la-problemática-de-la-anemia:análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias:análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico:proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist:problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro:indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr:proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países:uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la:la-anemia-en-el-perú-problema-de-salud-pública:definición-y-medición-de-efectos-niños:definición-y-medición-de-efectos-madres-gestantes:comparación-de-los-efectos-con-estándares-internacionales:medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país:medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país:entregable-2:anemia-por-deficiencia-de-hierro-copy">
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-madres-gestantes" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-madres-gestantes" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-madres-gestantes" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-madres-gestantes" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-madres-gestantes" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro-copy" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro-copy" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro-copy" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro-copy" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro-copy" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="tipos-de-anemia" alt=""/>
+      <caption webpage="tipos-de-anemia" alt=""/>
+      <caption webpage="tipos-de-anemia" alt=""/>
+      <caption webpage="tipos-de-anemia" alt=""/>
+      <caption webpage="tipos-de-anemia" alt=""/>
+      <caption webpage="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr" alt=""/>
+      <caption webpage="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr" alt=""/>
+      <caption webpage="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr" alt=""/>
+      <caption webpage="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr" alt=""/>
+      <caption webpage="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes" alt=""/>
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="la-anemia-en-el-perú-problema-de-salud-pública" alt=""/>
+      <caption webpage="la-anemia-en-el-perú-problema-de-salud-pública" alt=""/>
+      <caption webpage="la-anemia-en-el-perú-problema-de-salud-pública" alt=""/>
+      <caption webpage="la-anemia-en-el-perú-problema-de-salud-pública" alt=""/>
+      <caption webpage="la-anemia-en-el-perú-problema-de-salud-pública" alt=""/>
+      <caption webpage="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la" alt=""/>
+      <caption webpage="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la" alt=""/>
+      <caption webpage="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la" alt=""/>
+      <caption webpage="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la" alt=""/>
+      <caption webpage="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+    </file>
+    <file name="estefano.jpg" crc="4285252939" seo="true" ref="index">
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+    </file>
+    <file name="facebook.png" crc="4240779973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="137129301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="369931805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timana.jpg" crc="4218619206" seo="true" ref="index">
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+      <caption webpage="index" alt="Lucía Fortino diseñadora de interfaces de usuario en Creatico"/>
+    </file>
+    <file name="montoya.jpg" crc="4281095347" seo="true" ref="index">
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+      <caption webpage="index" alt="Pablo González marketing en Creatico"/>
+    </file>
+    <file name="taco.jpg" crc="4187793029" seo="true" ref="index">
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+      <caption webpage="index" alt="Lucas Martínez Desarrollador web en Creatico"/>
+    </file>
+    <file name="brochure.jpg" crc="4178546232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enviar.png" crc="467490410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inicio-normal.png" crc="10135371" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-u7428-fr.jpg" crc="4087272629" ref="index"/>
+    <file name="brochure-u7428-fr2.jpg" crc="4043576585" ref="index"/>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="def1.jpg" crc="4222812206" ref="definicion-de-anemia">
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+      <caption webpage="definicion-de-anemia" alt=""/>
+    </file>
+    <file name="tipo2.jpg" crc="4218892106" ref="tipos-de-anemia">
+      <caption webpage="tipos-de-anemia" alt=""/>
+    </file>
+    <file name="grupo1.jpg" crc="182412381" ref="grupos-más-vulnerables,-prevalencia-a-nivel-mundial">
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+    </file>
+    <file name="grupo2.jpg" crc="4161021271" ref="grupos-más-vulnerables,-prevalencia-a-nivel-mundial">
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+      <caption webpage="grupos-más-vulnerables,-prevalencia-a-nivel-mundial" alt=""/>
+    </file>
+    <file name="madres 1.jpg" crc="4065580248" ref="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes">
+      <caption webpage="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes" alt=""/>
+    </file>
+    <file name="estad.jpg" crc="3910708714" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 2.jpg" crc="3980835136" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 3550x360.jpg" crc="4258247079" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 4520x448.jpg" crc="529224081" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 3-crop-u34678.jpg" crc="146501967" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 4-crop-u34703.jpg" crc="3958516229" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 3-crop-u346782.jpg" crc="146501967" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 4-crop-u347032.jpg" crc="3958516229" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 3-crop-u346783.jpg" crc="146501967" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 4-crop-u347033.jpg" crc="3958516229" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 3-crop-u346784.jpg" crc="146501967" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="estad 4-crop-u347034.jpg" crc="3958516229" seo="true" ref="estadística-epidemiológica-en-el-perú">
+      <caption webpage="estadística-epidemiológica-en-el-perú" alt=""/>
+    </file>
+    <file name="etio1.jpg" crc="3914069391" seo="true" ref="análisis-etiológico-de-la-problemática-de-la-anemia">
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia" alt=""/>
+    </file>
+    <file name="edu1636x281.jpg" crc="3869877025" seo="true" ref="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias">
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+    </file>
+    <file name="edu1.jpg" crc="207616868" seo="true" ref="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias">
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+      <caption webpage="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias" alt=""/>
+    </file>
+    <file name="descarga (2).jpg" crc="3768552810" seo="true" ref="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist">
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+      <caption webpage="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist" alt=""/>
+    </file>
+    <file name="prob1378x574.jpg" crc="4150830732" seo="true" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro">
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+    </file>
+    <file name="prob1-crop-u39038.jpg" crc="3899076766" seo="true" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro">
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+    </file>
+    <file name="prob1-crop-u390382.jpg" crc="3899076766" seo="true" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro">
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+    </file>
+    <file name="prob1-crop-u390383.jpg" crc="3899076766" seo="true" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro">
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+    </file>
+    <file name="prob1-crop-u390384.jpg" crc="3899076766" seo="true" ref="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro">
+      <caption webpage="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro" alt=""/>
+    </file>
+    <file name="pais1.jpg" crc="360156705" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="pais2.jpg" crc="119648314" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="argentina 1.jpg" crc="335321232" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="argentina 2.jpg" crc="4103549551" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="argentina 3.jpg" crc="142690883" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="argentina 4.jpg" crc="4070090318" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="mexico 1.jpg" crc="4211648587" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="mexico 2.jpg" crc="144955116" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="españa 1.jpg" crc="3990498510" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="españa 2.jpg" crc="69452527" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="españa 3.jpg" crc="3813624813" seo="true" ref="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países">
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+      <caption webpage="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países" alt=""/>
+    </file>
+    <file name="costo.jpg" crc="4130880088" ref="definición-y-medición-de-efectos-niños">
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+    </file>
+    <file name="costo 2.jpg" crc="4023442946" ref="definición-y-medición-de-efectos-niños">
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+      <caption webpage="definición-y-medición-de-efectos-niños" alt=""/>
+    </file>
+    <file name="imagen pegada 904x588.jpg" crc="4211804384" seo="true" ref="comparación-de-los-efectos-con-estándares-internacionales">
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+    </file>
+    <file name="compara1.jpg" crc="105642334" ref="comparación-de-los-efectos-con-estándares-internacionales">
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+    </file>
+    <file name="compara2.jpg" crc="3827825940" ref="comparación-de-los-efectos-con-estándares-internacionales">
+      <caption webpage="comparación-de-los-efectos-con-estándares-internacionales" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-10-26 at 105604 pm.jpg" crc="4004854448" seo="true" ref="entregable-2">
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+      <caption webpage="entregable-2" alt=""/>
+    </file>
+    <file name="screen shot 2018-10-26 at 81015 pm2.jpg" crc="333637210" seo="true" ref="pasos-a-seguir:evaluacion-de-conceptos-de-solucion:matriz-morfologica:esquema-de-funciones:definicion-entradas-y-salidas:tabla-de-requerimientos:metodolodía-del-diseño:proyectos-preliminares:proyecto-optimo:matrices-de-evaluacion:entregable-3:expo-h3">
+      <caption webpage="matrices-de-evaluacion" alt=""/>
+      <caption webpage="matrices-de-evaluacion" alt=""/>
+      <caption webpage="matrices-de-evaluacion" alt=""/>
+      <caption webpage="matrices-de-evaluacion" alt=""/>
+      <caption webpage="matrices-de-evaluacion" alt=""/>
+      <caption webpage="proyecto-optimo" alt=""/>
+      <caption webpage="proyecto-optimo" alt=""/>
+      <caption webpage="proyecto-optimo" alt=""/>
+      <caption webpage="proyecto-optimo" alt=""/>
+      <caption webpage="proyecto-optimo" alt=""/>
+      <caption webpage="pasos-a-seguir" alt=""/>
+      <caption webpage="pasos-a-seguir" alt=""/>
+      <caption webpage="pasos-a-seguir" alt=""/>
+      <caption webpage="pasos-a-seguir" alt=""/>
+      <caption webpage="pasos-a-seguir" alt=""/>
+      <caption webpage="proyectos-preliminares" alt=""/>
+      <caption webpage="proyectos-preliminares" alt=""/>
+      <caption webpage="proyectos-preliminares" alt=""/>
+      <caption webpage="proyectos-preliminares" alt=""/>
+      <caption webpage="proyectos-preliminares" alt=""/>
+      <caption webpage="esquema-de-funciones" alt=""/>
+      <caption webpage="esquema-de-funciones" alt=""/>
+      <caption webpage="esquema-de-funciones" alt=""/>
+      <caption webpage="esquema-de-funciones" alt=""/>
+      <caption webpage="esquema-de-funciones" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="definicion-entradas-y-salidas" alt=""/>
+      <caption webpage="definicion-entradas-y-salidas" alt=""/>
+      <caption webpage="definicion-entradas-y-salidas" alt=""/>
+      <caption webpage="definicion-entradas-y-salidas" alt=""/>
+      <caption webpage="definicion-entradas-y-salidas" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="evaluacion-de-conceptos-de-solucion" alt=""/>
+      <caption webpage="evaluacion-de-conceptos-de-solucion" alt=""/>
+      <caption webpage="evaluacion-de-conceptos-de-solucion" alt=""/>
+      <caption webpage="evaluacion-de-conceptos-de-solucion" alt=""/>
+      <caption webpage="evaluacion-de-conceptos-de-solucion" alt=""/>
+      <caption webpage="metodolodía-del-diseño" alt=""/>
+      <caption webpage="metodolodía-del-diseño" alt=""/>
+      <caption webpage="metodolodía-del-diseño" alt=""/>
+      <caption webpage="metodolodía-del-diseño" alt=""/>
+      <caption webpage="metodolodía-del-diseño" alt=""/>
+      <caption webpage="matriz-morfologica" alt=""/>
+      <caption webpage="matriz-morfologica" alt=""/>
+      <caption webpage="matriz-morfologica" alt=""/>
+      <caption webpage="matriz-morfologica" alt=""/>
+      <caption webpage="matriz-morfologica" alt=""/>
+      <caption webpage="tabla-de-requerimientos" alt=""/>
+      <caption webpage="tabla-de-requerimientos" alt=""/>
+      <caption webpage="tabla-de-requerimientos" alt=""/>
+      <caption webpage="tabla-de-requerimientos" alt=""/>
+      <caption webpage="tabla-de-requerimientos" alt=""/>
+    </file>
+    <file name="img_bfbc66ad769a-1.jpg" crc="411259224" seo="true" ref="entregable-3">
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+    </file>
+    <file name="img_647e01d37916-1.jpg" crc="4189192407" seo="true" ref="entregable-3">
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+      <caption webpage="entregable-3" alt=""/>
+    </file>
+    <file name="img_1704.jpg" crc="108033173" seo="true" ref="expo-h3">
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+    </file>
+    <file name="img_1705.jpg" crc="190830743" seo="true" ref="expo-h3">
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+    </file>
+    <file name="img_1707.jpg" crc="3920064561" seo="true" ref="expo-h3">
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+      <caption webpage="expo-h3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4144461499" seo="true" mt="1542210557713" redirect="true"/>
+  <file name="definicion-de-anemia.html" crc="247729599" seo="true" mt="1540611180679" redirect="true"/>
+  <file name="tipos-de-anemia.html" crc="322428142" seo="true" mt="1540611250688" redirect="true"/>
+  <file name="anemia-por-deficiencia-de-hierro.html" crc="3804947608" seo="true" mt="1540611352152" redirect="true"/>
+  <file name="grupos-más-vulnerables,-prevalencia-a-nivel-mundial.html" crc="3799705047" seo="true" mt="1540611416368" redirect="true"/>
+  <file name="analisis-de-grupos-vulnerables-en-el-perú-niños-menores-de-5-años.html" crc="4098482918" seo="true" mt="1540611462358" redirect="true"/>
+  <file name="analisis-de-grupos-vulnerables-en-el-perú--madres-gestantes.html" crc="4118806901" seo="true" mt="1540611503680" redirect="true"/>
+  <file name="estadística-epidemiológica-en-el-perú.html" crc="3840588527" seo="true" mt="1540611536428" redirect="true"/>
+  <file name="análisis-etiológico-de-la-problemática-de-la-anemia.html" crc="22831470" seo="true" mt="1540611575933" redirect="true"/>
+  <file name="análisis-etiológico-de-la-problemática-de-la-anemia-educación,-cultura-y-creencias.html" crc="3935521434" seo="true" mt="1540611622999" redirect="true"/>
+  <file name="análisis-etiológico-de-la-problemática-de-la-anemia-diagnóstico.html" crc="448889679" seo="true" mt="1540611662481" redirect="true"/>
+  <file name="proceso-de-diagnóstico-de-la-anemia-en-el-perú-(descrito-por-guías-de-práctica-clínica-o-especialist.html" crc="3957718281" seo="true" mt="1540611705949" redirect="true"/>
+  <file name="problema-generalización-del-diagnóstico-de-todas-las-anemias-en-anemia-por-deficiencia-de-hierro.html" crc="4216286597" seo="true" mt="1540611745393" redirect="true"/>
+  <file name="indicador-utilizado-con-mayor-frecuencia-en-el-perú-para-el-tamizaje-y-diagnóstico-de-la-anemia-ferr.html" crc="343928014" seo="true" mt="1540611790802" redirect="true"/>
+  <file name="proceso-a-seguir-para-el-diagnóstico-de-la-anemia-en-otros-países.html" crc="3962059323" seo="true" mt="1540611867893" redirect="true"/>
+  <file name="uso-de-indicadores-diferentes-a-la-hemoglobina-para-el-diagnóstico-de-la-deficiencia-de-hierro-y-la.html" crc="4185928457" seo="true" mt="1540611978365" redirect="true"/>
+  <file name="la-anemia-en-el-perú-problema-de-salud-pública.html" crc="4039503627" seo="true" mt="1540612022313" redirect="true"/>
+  <file name="definición-y-medición-de-efectos-niños.html" crc="4175144416" seo="true" mt="1542208731083" redirect="true"/>
+  <file name="definición-y-medición-de-efectos-madres-gestantes.html" crc="4001630236" seo="true" mt="1542174181026" redirect="true"/>
+  <file name="comparación-de-los-efectos-con-estándares-internacionales.html" crc="485073823" seo="true" mt="1540613887874" redirect="true"/>
+  <file name="medición-del-impacto-económico-de-la-problemática-de-la-anemia-en-nuestro-país.html" crc="3873793524" seo="true" mt="1540613533031" redirect="true"/>
+  <file name="medición-del-impacto-social-de-la-problemática-de-la-anemia-en-nuestro-país.html" crc="4074910866" seo="true" mt="1540613605459" redirect="true"/>
+  <file name="medición-del-impacto-político-de-la-problemática-de-la-anemia-en-nuestro-país.html" crc="3867306466" seo="true" mt="1540613663108" redirect="true"/>
+  <file name="entregable-2.html" crc="3830030444" seo="true" mt="1540613864846" redirect="true"/>
+  <file name="pasos-a-seguir.html" crc="4042297776" seo="true" mt="1542175103414" redirect="true"/>
+  <file name="evaluacion-de-conceptos-de-solucion.html" crc="351807593" seo="true" mt="1542175173758" redirect="true"/>
+  <file name="matriz-morfologica.html" crc="4066662929" seo="true" mt="1542175150460" redirect="true"/>
+  <file name="esquema-de-funciones.html" crc="491206236" seo="true" mt="1542175139857" redirect="true"/>
+  <file name="definicion-entradas-y-salidas.html" crc="214434373" seo="true" mt="1542175130331" redirect="true"/>
+  <file name="tabla-de-requerimientos.html" crc="32903052" seo="true" mt="1542175115679" redirect="true"/>
+  <file name="metodolodía-del-diseño.html" crc="59969065" seo="true" mt="1542175088566" redirect="true"/>
+  <file name="proyectos-preliminares.html" crc="169173550" seo="true" mt="1542175249976" redirect="true"/>
+  <file name="proyecto-optimo.html" crc="3783049996" seo="true" mt="1542175256713" redirect="true"/>
+  <file name="matrices-de-evaluacion.html" crc="242632084" seo="true" mt="1542175260373" redirect="true"/>
+  <file name="entregable-3.html" crc="3810760900" seo="true" mt="1542210835433" redirect="true"/>
+  <file name="anemia-por-deficiencia-de-hierro-copy.html" crc="481242679" seo="true" mt="1542209609040" redirect="true"/>
+  <file name="expo-h3.html" crc="3839847255" seo="true" mt="1542210835442" redirect="true"/>
+</manifest>
